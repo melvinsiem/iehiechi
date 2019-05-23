@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faezaiyie.foodwisehampshire.co.uk/sitemap.xml
